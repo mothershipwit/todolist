@@ -1,8 +1,8 @@
 body {
-  background: rgb(237,64,223);
+  background: rgb(15, 237, 45);
   margin-top: 2rem;
-  font-family: Verdana, Tahoma, sans-serif;
-  text-shadow: 2px 2px 7px black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+  text-shadow: 1px 1px 1px rgb(90, 19, 161);
 }
 .checked{
     text-decoration: line-through;
