@@ -4,3 +4,6 @@ body {
   font-family: Verdana, Tahoma, sans-serif;
   text-shadow: 2px 2px 7px black;
 }
+.checked{
+    text-decoration: line-through;
+}
